@@ -1,9 +1,35 @@
 {
-  "posts": [
-    {
-      "title": "Estudiantes de @cognits aprenden a programar!",
-      "date": "2014,11,09",
-      "content": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aeneancommodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnisdis parturient montes, nascetur ridiculus mus. Donec quam felis, ultriciesnec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim.Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enimjusto, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam dictum feliseu pede mollis pretium. Integer tincidunt. Cras dapibus. Vivamus elementumsemper nisi. Aenean vulputate eleifend tellus. Aenean leo ligula, porttitoreu, consequat vitae, eleifend ac, enim. Aliquam lorem ante, dapibus in, viverraquis, feugiat a, tellus. Phasellus viverra nulla ut metus varius laoreet. Quisque rutrum. Aenean imperdiet. Etiam ultricies nisi vel augue. Curabitur ullamcorperultricies nisi. Nam eget dui. Etiam rhoncus. Maecenas tempus, tellus egetcondimentum rhoncus, sem quam semper libero, sit amet adipiscing sem nequesed ipsum. Nam quam nunc, blandit vel, luctus pulvinar, hendrerit id, lorem. Maecenas nec odio et ante tincidunt tempus. Donec vitae sapien ut libero venenatisfaucibus. Nullam quis ante. Etiam sit amet orci eget eros faucibus tincidunt.Duis leo. Sed fringilla mauris sit amet nibh. Donec sodales sagittis magna.Sed consequat, leo eget bibendum sodales, augue velit cursus nunc,"
-    }
-  ]
+    "posts": [
+        {
+            "title": "Lorem Problems",
+            "date": "2014,11,09",
+            "content": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aeneancommodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnisdis parturient montes, nascetur ridiculus mus. Donec quam felis, ultriciesnec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim.Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enimjusto, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam dictum feliseu pede mollis pretium. Integer tincidunt. Cras dapibus. Vivamus elementumsemper nisi. Aenean vulputate eleifend tellus. Aenean leo ligula, porttitoreu, consequat vitae, eleifend ac, enim. Aliquam lorem ante, dapibus in, viverraquis, feugiat a, tellus. Phasellus viverra nulla ut metus varius laoreet. Quisque rutrum. Aenean imperdiet. Etiam ultricies nisi vel augue. Curabitur ullamcorperultricies nisi. Nam eget dui. Etiam rhoncus. Maecenas tempus, tellus egetcondimentum rhoncus, sem quam semper libero, sit amet adipiscing sem nequesed ipsum. Nam quam nunc, blandit vel, luctus pulvinar, hendrerit id, lorem. Maecenas nec odio et ante tincidunt tempus. Donec vitae sapien ut libero venenatisfaucibus. Nullam quis ante. Etiam sit amet orci eget eros faucibus tincidunt.Duis leo. Sed fringilla mauris sit amet nibh. Donec sodales sagittis magna.Sed consequat, leo eget bibendum sodales, augue velit cursus nunc,"
+        },
+        {
+            "title": "Apps for Android",
+            "date": "2014,11,09",
+            "content": "Aprende en este práctico cómo iniciarte en App Inventor y lánzate al mercado de las apps. Si además requieres más información, te recomendamos que eches mano de los tutoriales que encontrarás en la sección Learn y en Reference Documentation, para conocer en profundidad cada uno de los bloques,Visita en primer lugar la web oficial de App Inventor. Necesitarás tener una cuenta Goo­gle para acceder al servicio. App Inventor está compuesto por un conjunto de herramientas que abarcan las diferentes tareas en la construcción de la aplicación: diseño, definición del comportamiento y simulación. Antes de pasar a utilizarlas, habrás de comprobar que cuentas con todo lo requerido. Acude a la página oficial y selecciona Setup. Pincha en Test your system y chequea tu navegador,es necesario tener instalado Java y los sistemas operativos soportados son Mac OS X 10.5/10.6, Windows XP/Vista/7, Ubuntu 8+ y Debian 5+. Cuando acabes, pincha en Done? Lets move on! y pasarás a la descarga del software de escritorio App Inventor. En el último paso, escoge si deseas probar tus aplicaciones con tu propio teléfono o utilizar el emulador. Este último simulará un dispositivo Android que podrás manejar a través del ordenador como si de un móvil real se tratara."
+        },
+        {
+            "title": "Best applications for ubuntu.",
+            "date": "2014,11,09",
+            "content": "Automatrix: Ha sido dificil escoger la mejor aplicación para Linux, peroautomatix tiene algo que no se puede pasar por alto. Es la primera aplicación que yo instalarí&shy;a en un sistema Linux, ya que gracias aella se automatiza la instalación de muchas otras aplicaciones. Entrelas aplicaciones que te instala destacan los codecs de audio y video,Skype, VLC, Audacity, Google earth, Picasa, VMWare, etc … Algo parecidoal automatix es el EasyUbuntu que pese a no estar nada mal, aún siguesiendo mejor el automatix.     Firefox + Thunderbird + Sunbird: A nuestro parecer, ninguna de estas 3 aplicaciones necesitapresentación ya que sus nombres hablan por si solos. Hemos decididounirlas como una sola ya que todas ellas están basadas en el mismomotor y pertenecen a la fundación Mozilla. No serí&shy;a descabellado queen un futuro formaran una suite. Con estas 3 herramientas podremosnavegar por internet, recibir y enviar correos y mantener nuestrocalendario al dí&shy;a. "
+        },
+        {
+            "title": "Todo lo que hacemos lo hacemos por nosotros",
+            "date": "2014,12,09",
+            "content": "¿A qué nos referimos cuando decimos que todo lo hacemos por nosotros? cuando nosotros con el simple hecho de ayudar a alguien hasta con la actitud más noble que se pueda tener, el ser humano está constituído de esa manera que busca un beneficio propio ya sea un ejemplo: Está una anciana y cae fuertemente a el asfalto y nosotros vamos caminando y la vemos... seguramente algunos sin duda la ayudarían, pero ¿Qué opinarían si les dijera que esa acción no la hicieron por la anciana si no por ustedes mismos? algunos claramente no estarían de acuerdo y debatieran fuertemente este tema pero por eso es importante resaltar que tan solo en esa situación cuando nosotros nos sentimos bien por hacer algo, ese ya es un beneficio propio, así como muchas otras ocasiones donde ayudar busca un autobeneficio."
+        },
+        {
+            "title": "No somos lo que los demás piensan",
+            "date": "2014,12,09",
+            "content": "Algo muy interesante para nosotros en nuestras actitudes es como actuamos y como el ser humano es cambiante constantemente por eso es muy importante saber claramente de donde vienes y quier eres ya que con esos fundamentos que tú sabes nadie te va a hacer cambiar de opinión de esa misma manera tiene que ser nuestra personalidad hay que tener en claro que si hacemos algo lo hacemos por nosotros y no por lo que alguien más quiera que seamos o hagamos si nosotros hacemos las cosas por que nos da miedo a lo que las otras personas piensan y dependemos mucho de lo que puedan pensar estamos perdiendo nuestra identidad y eso poco a poco puede llevar a la consecuensia de la inseguridad y siempre vamos a depender de alguién o algo para sobresalir y no es así."
+        },
+        {
+            "title": "No somos lo que los demás piensan",
+            "date": "2014,12,09",
+            "content": "Mantener la palabra, en este post sin duda seré lo más abierto posible, ya que el tema lo abarca todo; ¿Somos sinceros? ¿Cumplimos siempre? ¿A qué le tomamos prioridad? todas estas preguntas llevan a una sola...¿Somos sinceros? una buena reflexión en la vida es pensar muy bien algo a la hora que se va a decir ya que eso es indispensable para el bienestar propio en opinión propia no creo que una persona que no cumple su palabra lleve la calidad de vida que una que si lo hace, pero que pasa si aveces nosotros nos topamos en esa famosa situación de la falta de tiempo, bueno entonces en ese caso tendríamos que ver cual es la que tiene mayor impotancia para tí, ya que lógicamente no se pueden cumplir las dos al mismo tiempo, pero si se pueden ¿Por qué no hacerlo?! en conclusión mantener la palabra puede llevarnos a tener un mejor desempeño tanto personal, y laboral."
+        }
+    ]
 }
+

@@ -1,0 +1,264 @@
+.First_title{
+	float: left;
+	margin-left:40px;
+	color: gray;
+	font-family: arial;
+	font-size: 20px;
+}
+.Second_title{
+	margin-bottom:-20px;
+	margin-left: 1180px;
+	color: gray;
+	cursor: pointer; cursor: hand;
+}
+.Third_title{
+	margin bottom: -15;
+	margin-left: 1100px;
+	color: gray;
+	cursor: pointer; cursor: hand;
+}
+.Titulo{
+	font-size: 35px;
+	font-family: Arial;
+	margin-left: 180px;
+}
+.Sub_titulo{
+	margin-left: 180px;
+	font-size: 25px;
+}
+
+.Tema1{
+	margin-left:180px;
+	font-size: 30px;
+	color:#3399FF;
+	cursor: pointer; cursor: hand;
+}
+.INFO{
+	margin-left:180px;
+	font-size: 25px;
+	color:#3399FF;
+}
+.Tema2{
+	margin-left:180px;
+	font-size: 30px;
+	color:#3399FF;
+	cursor: pointer; cursor: hand;
+}
+.INFO2{
+	margin-left:180px;
+	font-size: 25px;
+	color:#3399FF;
+}
+.Tema3{
+	margin-left:180px;
+	font-size: 30px;
+	color:#3399FF;
+	cursor: pointer; cursor: hand;
+}
+.INFO3{
+	margin-left:180px;
+	font-size: 30px;
+	color:#3399FF;
+}
+.Tema4{
+	margin-left:180px;
+	font-size: 30px;
+	color:#3399FF;
+	cursor: pointer; cursor: hand;
+}
+.INFO4{
+	margin-left:180px;
+	font-size: 30px;
+	color:#3399FF;
+}
+.Tema5{
+	margin-left:180px;
+	font-size: 30px;
+	color:#3399FF;
+	cursor: pointer; cursor: hand;
+}
+.INFO5{
+	margin-left:180px;
+	font-size: 30px;
+	color:#3399FF;
+}
+.Tema6{
+	margin-left:180px;
+	font-size: 30px;
+	color:#3399FF;
+	cursor: pointer; cursor: hand;
+}
+.INFO6{
+	margin-left:180px;
+	font-size: 30px;
+	color:#3399FF;
+}
+.Older{
+	border-radius: 20px;
+	border: solid #D3D3D3 1px;
+	height: 30px;
+	width: 120px;
+	margin-left: 900px;
+	color: #3399FF;
+	text-align: center;
+	cursor: pointer; cursor: hand;
+}
+.posts{
+	width:1000px;
+	color:black;
+	font-family: Arial;
+	margin-left:180px;
+}
+.posts2{
+	width:1000px;
+	color:black;
+	font-family:Arial;
+	margin-left:180px;
+}
+.posts3{
+	width:1000px;
+	color:black;
+	font-family: Arial;
+	margin-left:180px;
+}
+.posts4{
+	width:1000px;
+	color:black;
+	font-family: Arial;
+	margin-left:175px;
+}
+.posts5{
+	width:1000px;
+	color:black;
+	font-family: Arial;
+	margin-left:180px;
+}
+.posts6{
+	width:1000px;
+	color:black;
+	font-family: Arial;
+	margin-left:180px;
+}
+
+#target{
+	margin-left: 370px;
+	display:none;
+}
+
+#id{
+	display: none;
+	width:70%;
+	text-align: justify;
+}
+#id2{
+	display: none;
+	width:70%;
+	text-align: justify;
+}
+#id3{
+	width:70%;
+	text-align: justify;
+}
+#id4{
+	width:70%;
+	text-align: justify;
+}
+#id5{
+	width:70%;
+	text-align: justify;
+}
+#id6{
+	width:70%;
+	text-align: justify;
+}
+
+#boton_comentario1{
+	display:none;
+	margin-left: 500px;
+}
+#primero{
+	display:none;
+	margin-left: 500px;
+}
+#boton_comentario2{
+	display:none;
+	margin-left: 500px;
+}
+#segundo{
+	display:none; 
+	margin-left: 500px;
+}
+#boton_comentario{
+	display:none;
+	margin-left: 550px;
+}
+#tercer{
+	display:none;
+	margin-left: 550px;
+}
+#boton_comentario4{
+	margin-left: 550px;
+}
+#cuarto{
+	margin-left: 550px;
+}
+#boton_comentario5{
+	margin-left: 550px;
+}
+#quinto{
+	margin-left: 550px;
+}
+#boton_comentario6{
+	margin-left: 550px;
+}
+#sexto{
+	margin-left: 550px;
+}
+.messages {
+	font-size: 15px;
+	font-family: Garamond, Times, Serif;
+	margin-left: 180px;
+}
+.messages1 {
+	font-size: 15px;
+	font-family: Garamond, Times, Serif;
+	margin-left: 180px;
+}
+.messages2 {
+	font-size: 15px;
+	font-family: Garamond, Times, Serif;
+	margin-left: 180px;
+}
+.messages4 {
+	font-size: 15px;
+	font-family: Garamond, Times, Serif;
+	margin-left: 180px;
+}
+.messages5 {
+	font-size: 15px;
+	font-family: Garamond, Times, Serif;
+	margin-left: 180px;
+}
+.messages6 {
+	font-size: 15px;
+	font-family: Garamond, Times, Serif;
+	margin-left: 180px;
+}
+#target {
+	margin-left: 1085px;
+}
+
+.copy{ 
+	text-align: center;
+	color: gray;
+}
+.subir{
+	margin-top: -5%;
+}
+
+.resaltar{
+	background-color:#DEE8E3;
+}
+.posts_tito{
+	display:none;
+}
